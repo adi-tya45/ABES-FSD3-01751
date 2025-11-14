@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 10;
+}
+body{
+    border: 20px solid yellowgreen;
+}
+
+.intro_div{
+    background-color:cadetblue;
+    color:whitesmoke;
+    text-align: center;
+    padding: 50px;
+    
+    
+}
+img{
+    height: 150px;
+    width: 200px;
+    float: left;
+    padding: 30px;
+}
+
+#name{
+    padding: 10px;
+    font-size: 50px;
+}
+#designation{
+    padding-bottom: 10px;
+    font-family:cursive;
+}
+
+.contact_div{
+    padding: 2px;
+    padding-left:10px;
+    
+     
+}
+#mail{
+    text-decoration: none;
+   
+    background-color: antiquewhite;
+    border-radius: 10px
+   
+    pa
+}
